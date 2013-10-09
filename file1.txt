@@ -1,5 +1,9 @@
 this is a file1
 
 change for dev
-this is for feature 12345
+<<<<<<< HEAD
+this is for feature 123456
 
+=======
+this is for feature 123456
+>>>>>>> feature1
