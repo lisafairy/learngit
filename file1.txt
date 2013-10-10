@@ -1,4 +1,10 @@
 this is a file1
 
+<<<<<<< HEAD
 change for dev againabc
-aoh?
+aoh?this is a change from other person.
+=======
+change for dev againa
+
+aoh?this is a change from other person.
+>>>>>>> d131bcd66b019cebdf19b268206fa1c892550c82
